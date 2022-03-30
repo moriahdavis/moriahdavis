@@ -1,15 +1,23 @@
 a{
     font-family: sans-serif;
+    color: #7FB069;
 }
 
 h1{
     font-family: sans-serif;
+    color: #2A324B;
 }
 
 h2{
     font-family: sans-serif;
+    color: #767B91;
 }
 
 p{
     font-family: sans-serif;
+    color: #999DAD;
+}
+
+body{
+    background-color: #E1E5EE;
 }
