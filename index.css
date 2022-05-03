@@ -23,3 +23,7 @@ p{
 body{
     background-color: #E1E5EE;
 }
+
+nav{
+    display: inline;
+}
