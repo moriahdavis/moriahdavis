@@ -25,5 +25,5 @@ body{
 }
 
 nav{
-    display: inline;
+    display: inline-block;
 }
